@@ -1,4 +1,4 @@
-package Bronze2;
+package Bronze2.Day1;
 
 import java.util.HashSet;
 import java.util.Scanner;
